@@ -1,6 +1,5 @@
-# repo\_practice\_jobs
-
-Description: my practice jobs in University.
+# repo\_GitHub\_familiarize
+Description: Hi, im getting to know GitHub.
 
 Este es un cambio realizado en README de manera local.
 
