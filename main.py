@@ -1,3 +1,5 @@
+print("ESP: Hola, estas en auxiliar.py\nENG: Hi, you are in auxiliar.py")
+print()
 print("ESP: Hola soy 'Santek', estoy probando GitHub.\nENG: Hi, im 'Santek', im testing GitHub.")
 print()
 name = input("ESP: ¡Ingrese el nombre de quien esta ejecutando!\nENG: Enter the name of the person executing this!\n>")
